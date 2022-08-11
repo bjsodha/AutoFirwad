@@ -14,7 +14,7 @@ import sys
 async def Start_msg(bot: ace , m: Message):
     await bot.send_photo(
     m.chat.id,
-    photo="https://telegra.ph/file/d77a3767a8d58da76f2df.jpg",
+    photo="https://telegra.ph/file/a5a803ea6159e92108f0d.jpg",
     caption = f"Hello [{m.from_user.first_name}](tg://user?id={m.from_user.id})\n" +
     f"\nI am Auto Forwarder bot." +
     f"\nPress /help for More Info.\n\n__**Developer** : ACE\n**Language** : Python\n**Framwork** : Pyrogram__",
