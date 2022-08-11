@@ -21,9 +21,9 @@ async def Start_msg(bot: ace , m: Message):
     # parse_mode="md",
     reply_markup=InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton("🙋‍♂️Dev Ace", url="https://t.me/AceCallRobot")],
-            [InlineKeyboardButton("Channel", url="https://t.me/WickedSkull")],
-            [InlineKeyboardButton("Repo", url="https://github.com/imacekun/ACE-AUTO-FORWARD/")],
+            [InlineKeyboardButton("🙋‍♂️Dev Ace", url="https://t.me/ckflicks")],
+            [InlineKeyboardButton("Channel", url="https://t.me/ckflicks")],
+            [InlineKeyboardButton("Repo", url="https://github.com/kichuprobotz/ACE-AUTO-FORWARD/")],
         ],
     )
     )
